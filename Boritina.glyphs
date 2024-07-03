@@ -251,16 +251,10 @@ unicode = 78;
 },
 {
 glyphname = O;
-lastChange = "2024-06-28 01:34:31 +0000";
+lastChange = "2024-07-03 07:37:21 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_0QNn62/Screenshot 2024-06-26 at 10.50.45 AM.png";
-locked = 1;
-pos = (-839,-718);
-scale = (34.7564,34.8883);
-};
-layerId = m01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -300,6 +294,50 @@ nodes = (
 (815,294,o),
 (731,114,o),
 (577,75,cs)
+);
+}
+);
+};
+backgroundImage = {
+imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_0QNn62/Screenshot 2024-06-26 at 10.50.45 AM.png";
+locked = 1;
+pos = (-839,-718);
+scale = (34.7564,34.8883);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(264,-15,o),
+(475,-15,cs),
+(710,-15,o),
+(899,159,o),
+(899,401,cs),
+(899,604,o),
+(730,812,o),
+(515,812,cs),
+(283,812,o),
+(76,653,o),
+(76,401,cs),
+(76,184,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(672,66,o),
+(511,66,cs),
+(321,66,o),
+(200,258,o),
+(200,424,cs),
+(200,590,o),
+(315,731,o),
+(469,731,cs),
+(660,731,o),
+(780,538,o),
+(780,371,cs),
+(780,209,o)
 );
 }
 );
@@ -618,16 +656,10 @@ unicode = 110;
 },
 {
 glyphname = o;
-lastChange = "2024-06-28 06:38:15 +0000";
+lastChange = "2024-07-03 07:38:19 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_AkAub8/Screenshot 2024-06-26 at 11.36.11 AM.png";
-locked = 1;
-pos = (-862,948);
-scale = (29.782,29.782);
-};
-layerId = m01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -667,6 +699,50 @@ nodes = (
 (469,179,o),
 (425,73,o),
 (343,52,cs)
+);
+}
+);
+};
+backgroundImage = {
+imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_AkAub8/Screenshot 2024-06-26 at 11.36.11 AM.png";
+locked = 1;
+pos = (-862,948);
+scale = (29.782,29.782);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(126,-14,o),
+(265,-14,cs),
+(420,-14,o),
+(552,78,o),
+(552,251,cs),
+(552,365,o),
+(454,511,o),
+(316,511,cs),
+(181,511,o),
+(28,435,o),
+(28,254,cs),
+(28,139,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(396,47,o),
+(310,47,cs),
+(199,47,o),
+(133,174,o),
+(133,270,cs),
+(133,358,o),
+(183,445,o),
+(269,445,cs),
+(384,445,o),
+(449,311,o),
+(449,220,cs),
+(449,130,o)
 );
 }
 );
