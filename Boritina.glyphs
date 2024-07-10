@@ -14,7 +14,8 @@ HAMBURGOnope,
 " AH",
 MAH,
 npoe,
-ABH
+ABH,
+BUH
 );
 date = "2024-06-26 07:40:17 +0000";
 familyName = Boritina;
@@ -132,7 +133,7 @@ unicode = 65;
 },
 {
 glyphname = B;
-lastChange = "2024-07-10 05:21:46 +0000";
+lastChange = "2024-07-10 05:23:34 +0000";
 layers = (
 {
 backgroundImage = {
@@ -385,7 +386,7 @@ unicode = 76;
 },
 {
 glyphname = M;
-lastChange = "2024-07-04 07:39:45 +0000";
+lastChange = "2024-07-10 05:49:06 +0000";
 layers = (
 {
 backgroundImage = {
@@ -447,10 +448,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(514,142,l),
-(588,142,l),
-(588,195,l),
-(514,195,l)
+(514,145,l),
+(588,145,l),
+(588,198,l),
+(514,198,l)
 );
 }
 );
@@ -618,10 +619,58 @@ unicode = 84;
 },
 {
 glyphname = U;
+lastChange = "2024-07-10 05:45:06 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_vHG71L/Screenshot 2024-07-09 at 10.25.24 PM.png";
+locked = 1;
+pos = (-50,-74);
+scale = (11.2803,11.2803);
+};
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(264,146,o),
+(358,64,o),
+(490,64,cs),
+(649,64,o),
+(740,165,o),
+(740,342,cs),
+(739,651,ls),
+(739,714,o),
+(707,737,o),
+(625,740,c),
+(625,800,l),
+(921,800,l),
+(921,742,l),
+(844,736,o),
+(820,714,o),
+(820,651,cs),
+(820,342,ls),
+(820,128,o),
+(677,-12,o),
+(452,-12,cs),
+(270,-12,o),
+(141,95,o),
+(142,312,cs),
+(143,651,ls),
+(143,714,o),
+(120,736,o),
+(50,741,c),
+(50,800,l),
+(358,800,l),
+(358,740,l),
+(293,737,o),
+(264,714,o),
+(264,651,cs),
+(264,312,ls)
+);
+}
+);
+width = 970;
 }
 );
 unicode = 85;
