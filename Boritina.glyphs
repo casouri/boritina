@@ -55,7 +55,7 @@ name = Regular;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2024-07-11 04:47:11 +0000";
+lastChange = "2024-07-15 06:33:49 +0000";
 layers = (
 {
 backgroundImage = {
@@ -120,15 +120,6 @@ nodes = (
 (600,350,l),
 (245,350,l),
 (223,284,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(459,652,l),
-(459,696,l),
-(378,696,l),
-(378,652,l)
 );
 }
 );
@@ -444,7 +435,7 @@ unicode = 76;
 },
 {
 glyphname = M;
-lastChange = "2024-07-11 04:47:18 +0000";
+lastChange = "2024-07-15 06:33:55 +0000";
 layers = (
 {
 backgroundImage = {
@@ -501,15 +492,6 @@ nodes = (
 (135,72,o),
 (50,62,c),
 (50,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(588,145,l),
-(588,198,l),
-(514,198,l),
-(514,145,l)
 );
 }
 );
