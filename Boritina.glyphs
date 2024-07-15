@@ -21,7 +21,8 @@ npoe,
 ABH,
 BUH,
 BRH,
-RGH
+RGH,
+" "
 );
 date = "2024-06-26 07:40:17 +0000";
 familyName = aaa_Boritina_0710;
@@ -915,7 +916,7 @@ unicode = 100;
 },
 {
 glyphname = e;
-lastChange = "2024-07-15 16:00:36 +0000";
+lastChange = "2024-07-15 16:12:05 +0000";
 layers = (
 {
 background = {
@@ -962,6 +963,12 @@ locked = 1;
 pos = (-83,-153);
 scale = (28.2687,28.2687);
 };
+guides = (
+{
+angle = 90;
+pos = (492,474);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -999,7 +1006,7 @@ nodes = (
 );
 }
 );
-width = 542;
+width = 552;
 }
 );
 unicode = 101;
@@ -1426,10 +1433,11 @@ unicode = 122;
 },
 {
 glyphname = space;
+lastChange = "2024-07-15 16:11:29 +0000";
 layers = (
 {
 layerId = m01;
-width = 200;
+width = 250;
 }
 );
 unicode = 32;
