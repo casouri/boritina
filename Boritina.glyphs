@@ -2,7 +2,7 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-HNM,
+OHNM,
 O,
 "HOnope HOnope
 HOnopeHOno peHOnope
@@ -10,7 +10,7 @@ HOnopeHOnope
 HOnope HOnope",
 n,
 oe,
-"HAMBURGOnope
+"HAMBURGEFONTSIVOnope
 
 HH/Placeholder HH OO/Placeholder OO
 nn/Placeholder nn oo/Placeholder oo
@@ -702,10 +702,57 @@ unicode = 77;
 },
 {
 glyphname = N;
+lastChange = "2024-07-16 01:12:39 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_zdWOf2/Screenshot 2024-07-15 at 6.03.44 PM.png";
+locked = 1;
+pos = (-78,-145);
+scale = (26.4077,26.4077);
+};
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(862,0,l),
+(859,630,ls),
+(859,706,o),
+(881,731,o),
+(966,741,c),
+(966,803,l),
+(665,803,l),
+(665,741,l),
+(751,734,o),
+(782,706,o),
+(783,630,cs),
+(789,194,l),
+(306,718,ls),
+(290,736,o),
+(280,774,o),
+(280,800,c),
+(64,803,l),
+(64,744,l),
+(139,736,o),
+(163,713,o),
+(163,651,cs),
+(163,173,ls),
+(163,97,o),
+(141,72,o),
+(56,62,c),
+(56,0,l),
+(357,0,l),
+(357,62,l),
+(271,69,o),
+(240,97,o),
+(239,173,cs),
+(236,622,l),
+(809,0,l)
+);
+}
+);
+width = 1000;
 }
 );
 unicode = 78;
