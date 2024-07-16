@@ -737,7 +737,7 @@ unicode = 77;
 },
 {
 glyphname = N;
-lastChange = "2024-07-16 18:48:04 +0000";
+lastChange = "2024-07-16 18:50:21 +0000";
 layers = (
 {
 backgroundImage = {
@@ -787,7 +787,7 @@ nodes = (
 );
 }
 );
-width = 1006;
+width = 996;
 }
 );
 unicode = 78;
