@@ -23,7 +23,8 @@ BUH,
 BRH,
 RBRGRAH,
 " ",
-OBEFR
+OBEFR,
+NTBH
 );
 date = "2024-06-26 07:40:17 +0000";
 familyName = aaa_Boritina_0715;
@@ -1029,10 +1030,48 @@ unicode = 83;
 },
 {
 glyphname = T;
+lastChange = "2024-07-16 01:32:03 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_wYgDXW/Screenshot 2024-07-15 at 6.15.00 PM.png";
+locked = 1;
+pos = (-64,-147);
+scale = (25.8143,25.8143);
+};
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(587,0,l),
+(587,62,l),
+(493,67,o),
+(446,100,o),
+(446,149,cs),
+(446,725,l),
+(544,725,ls),
+(614,725,o),
+(672,676,o),
+(687,581,c),
+(745,581,l),
+(735,800,l),
+(45,800,l),
+(35,581,l),
+(93,581,l),
+(108,676,o),
+(166,725,o),
+(236,725,cs),
+(334,725,l),
+(334,149,ls),
+(334,100,o),
+(287,67,o),
+(193,62,c),
+(193,0,l)
+);
+}
+);
+width = 795;
 }
 );
 unicode = 84;
