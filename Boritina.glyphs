@@ -10,7 +10,7 @@ nn/Placeholder nn oo/Placeholder oo
 HH/Placeholder/Placeholder HH OO/Placeholder/Placeholder OO
 nn/Placeholder/Placeholder nn oo/Placeholder/Placeholder oo
 ",
-hambnopanoaae,
+hambpnopanoaae,
 RBRGRAH,
 " ",
 OBEFR,
@@ -1674,10 +1674,12 @@ unicode = 97;
 },
 {
 glyphname = b;
-lastChange = "2024-07-22 06:36:37 +0000";
+lastChange = "2024-07-22 06:42:36 +0000";
 layers = (
 {
-layerId = m01;
+associatedMasterId = m01;
+layerId = "9E276708-E07E-40A2-A100-05F1CA943FFB";
+name = "with spur";
 shapes = (
 {
 closed = 1;
@@ -1732,9 +1734,8 @@ nodes = (
 width = 635;
 },
 {
-associatedMasterId = m01;
-layerId = "E8055CD4-2639-4D1E-9B2D-402D8BDDFFD7";
-name = "with spur";
+layerId = m01;
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -1742,13 +1743,13 @@ nodes = (
 (497,-12,o),
 (600,97,o),
 (600,265,cs),
-(600,427,o),
-(517,514,o),
-(390,514,cs),
-(319,514,o),
-(223,450,o),
-(166,377,c),
-(106,377,l),
+(600,421,o),
+(517,508,o),
+(390,508,cs),
+(319,508,o),
+(223,444,o),
+(166,371,c),
+(106,371,l),
 (106,13,l),
 (202,12,o),
 (259,-12,o),
@@ -1758,31 +1759,31 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(277,45,o),
-(208,89,o),
-(208,164,cs),
-(208,363,l),
-(243,402,o),
-(293,425,o),
-(347,425,cs),
-(443,425,o),
-(492,347,o),
+(279,40,o),
+(208,79,o),
+(208,144,cs),
+(208,357,l),
+(243,396,o),
+(293,419,o),
+(347,419,cs),
+(443,419,o),
+(492,341,o),
 (492,240,cs),
 (492,112,o),
-(426,45,o),
-(347,45,cs)
+(435,40,o),
+(349,40,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(208,331,l),
+(208,325,l),
 (208,876,l),
 (165,876,l),
 (30,799,l),
 (30,773,l),
 (106,740,l),
-(106,331,l)
+(106,325,l)
 );
 }
 );
