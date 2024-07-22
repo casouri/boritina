@@ -2,14 +2,6 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-OHNM,
-O,
-"HOnope HOnope
-HOnopeHOno peHOnope
-HOnopeHOnope
-HOnope HOnope",
-n,
-oe,
 "HAMBURGEF
 ONTSIVOnope
 
@@ -18,18 +10,12 @@ nn/Placeholder nn oo/Placeholder oo
 HH/Placeholder/Placeholder HH OO/Placeholder/Placeholder OO
 nn/Placeholder/Placeholder nn oo/Placeholder/Placeholder oo
 ",
-" AH",
-MAH,
-npoe,
-ABH,
-BUH,
-BRH,
+hnpoe,
 RBRGRAH,
 " ",
 OBEFR,
 NTBIH,
 HVUVASOT,
-S,
 MGSEFT
 );
 date = "2024-06-26 07:40:17 +0000";
@@ -64,7 +50,7 @@ name = Regular;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2024-07-22 00:39:47 +0000";
+lastChange = "2024-07-22 02:03:25 +0000";
 layers = (
 {
 background = {
@@ -99,12 +85,6 @@ nodes = (
 );
 }
 );
-};
-backgroundImage = {
-imagePath = "../../Desktop/Screenshot 2024-07-03 at 3.14.23 PM.png";
-locked = 1;
-pos = (-171,-242);
-scale = (28.879,28.879);
 };
 guides = (
 {
@@ -175,15 +155,9 @@ unicode = 65;
 },
 {
 glyphname = B;
-lastChange = "2024-07-17 00:56:46 +0000";
+lastChange = "2024-07-22 02:03:33 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_ocL33u/Screenshot 2024-07-09 at 9.09.38 PM.png";
-locked = 1;
-pos = (-819,-190);
-scale = (28.0611,28.0611);
-};
 layerId = m01;
 shapes = (
 {
@@ -280,15 +254,9 @@ unicode = 68;
 },
 {
 glyphname = E;
-lastChange = "2024-07-20 22:52:49 +0000";
+lastChange = "2024-07-22 02:03:53 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../Desktop/Screenshot 2024-07-15 at 4.55.18 PM.png";
-locked = 1;
-pos = (-60,-212);
-scale = (27.3807,27.3807);
-};
 layerId = m01;
 shapes = (
 {
@@ -462,7 +430,7 @@ unicode = 70;
 },
 {
 glyphname = G;
-lastChange = "2024-07-22 01:48:16 +0000";
+lastChange = "2024-07-22 02:03:47 +0000";
 layers = (
 {
 background = {
@@ -513,13 +481,6 @@ nodes = (
 );
 }
 );
-};
-backgroundImage = {
-angle = -0.1;
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_Mxn2Bg/Screenshot 2024-07-09 at 11.30.28 PM.png";
-locked = 1;
-pos = (-21,-81);
-scale = (24.977,24.977);
 };
 guides = (
 {
@@ -691,15 +652,9 @@ unicode = 71;
 },
 {
 glyphname = H;
-lastChange = "2024-07-17 15:52:00 +0000";
+lastChange = "2024-07-22 02:03:19 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_NAteq5/Screenshot 2024-06-26 at 10.58.15 AM.png";
-locked = 1;
-pos = (-723,-667);
-scale = (35.6082,35.6082);
-};
 layerId = m01;
 shapes = (
 {
@@ -837,15 +792,9 @@ unicode = 76;
 },
 {
 glyphname = M;
-lastChange = "2024-07-17 00:06:05 +0000";
+lastChange = "2024-07-22 02:03:29 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_hv3of3/Screenshot 2024-07-03 at 11.58.23 PM.png";
-locked = 1;
-pos = (-171,-217);
-scale = (26.3363,26.3363);
-};
 layerId = m01;
 shapes = (
 {
@@ -904,15 +853,9 @@ unicode = 77;
 },
 {
 glyphname = N;
-lastChange = "2024-07-17 00:32:08 +0000";
+lastChange = "2024-07-22 02:04:04 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_zdWOf2/Screenshot 2024-07-15 at 6.03.44 PM.png";
-locked = 1;
-pos = (-84,-145);
-scale = (26.4077,26.4077);
-};
 layerId = m01;
 shapes = (
 {
@@ -961,7 +904,7 @@ unicode = 78;
 },
 {
 glyphname = O;
-lastChange = "2024-07-15 15:30:33 +0000";
+lastChange = "2024-07-22 02:04:00 +0000";
 layers = (
 {
 background = {
@@ -1007,12 +950,6 @@ nodes = (
 );
 }
 );
-};
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_0QNn62/Screenshot 2024-06-26 at 10.50.45 AM.png";
-locked = 1;
-pos = (-865,-718);
-scale = (34.7564,34.8883);
 };
 layerId = m01;
 shapes = (
@@ -1078,7 +1015,7 @@ unicode = 81;
 },
 {
 glyphname = R;
-lastChange = "2024-07-22 01:43:19 +0000";
+lastChange = "2024-07-22 02:03:40 +0000";
 layers = (
 {
 background = {
@@ -1142,12 +1079,6 @@ nodes = (
 );
 }
 );
-};
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_KuZVL7/Screenshot 2024-07-09 at 10.52.09 PM.png";
-locked = 1;
-pos = (-40,-103);
-scale = (26.4014,26.4014);
 };
 layerId = m01;
 shapes = (
@@ -1221,7 +1152,7 @@ unicode = 82;
 },
 {
 glyphname = S;
-lastChange = "2024-07-22 01:48:02 +0000";
+lastChange = "2024-07-22 02:04:17 +0000";
 layers = (
 {
 background = {
@@ -1266,13 +1197,6 @@ nodes = (
 );
 }
 );
-};
-backgroundImage = {
-angle = -2;
-imagePath = "../../Desktop/Screenshot 2024-07-16 at 1.16.43 PM.png";
-locked = 1;
-pos = (-38,-135);
-scale = (26.9586,26.9586);
 };
 layerId = m01;
 shapes = (
@@ -1420,15 +1344,9 @@ unicode = 83;
 },
 {
 glyphname = T;
-lastChange = "2024-07-20 22:35:03 +0000";
+lastChange = "2024-07-22 02:04:08 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_wYgDXW/Screenshot 2024-07-15 at 6.15.00 PM.png";
-locked = 1;
-pos = (-69,-147);
-scale = (25.8143,25.8143);
-};
 layerId = m01;
 shapes = (
 {
@@ -1468,15 +1386,9 @@ unicode = 84;
 },
 {
 glyphname = U;
-lastChange = "2024-07-17 01:00:59 +0000";
+lastChange = "2024-07-22 02:03:36 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_vHG71L/Screenshot 2024-07-09 at 10.25.24 PM.png";
-locked = 1;
-pos = (-60,-74);
-scale = (11.2803,11.2803);
-};
 layerId = m01;
 shapes = (
 {
@@ -1526,15 +1438,9 @@ unicode = 85;
 },
 {
 glyphname = V;
-lastChange = "2024-07-22 00:40:05 +0000";
+lastChange = "2024-07-22 02:04:23 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../Desktop/Screenshot 2024-07-16 at 1.02.20 PM.png";
-locked = 1;
-pos = (-130,-123);
-scale = (27.4232,27.4232);
-};
 guides = (
 {
 angle = 90;
@@ -1659,7 +1565,7 @@ unicode = 100;
 },
 {
 glyphname = e;
-lastChange = "2024-07-20 21:47:02 +0000";
+lastChange = "2024-07-22 02:02:47 +0000";
 layers = (
 {
 background = {
@@ -1699,12 +1605,6 @@ nodes = (
 );
 }
 );
-};
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_0Z4Vff/Screenshot 2024-07-04 at 9.06.42 AM.png";
-locked = 1;
-pos = (-93,-153);
-scale = (28.2687,28.2687);
 };
 guides = (
 {
@@ -1776,10 +1676,62 @@ unicode = 103;
 },
 {
 glyphname = h;
+lastChange = "2024-07-22 02:02:16 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(658,0,l),
+(658,49,l),
+(594,51,o),
+(572,77,o),
+(572,135,cs),
+(571,345,ls),
+(570,458,o),
+(514,514,o),
+(411,514,cs),
+(346,514,o),
+(229,445,o),
+(184,408,c),
+(203,367,l),
+(259,417,o),
+(326,434,o),
+(376,434,cs),
+(427,434,o),
+(472,393,o),
+(472,309,cs),
+(472,135,ls),
+(472,77,o),
+(446,51,o),
+(386,47,c),
+(386,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(312,0,l),
+(312,47,l),
+(257,51,o),
+(226,77,o),
+(226,135,cs),
+(226,860,l),
+(183,860,l),
+(48,783,l),
+(48,757,l),
+(124,724,l),
+(126,135,ls),
+(126,77,o),
+(96,51,o),
+(40,47,c),
+(40,0,l)
+);
+}
+);
+width = 698;
 }
 );
 unicode = 104;
@@ -1836,15 +1788,9 @@ unicode = 109;
 },
 {
 glyphname = n;
-lastChange = "2024-07-20 21:58:45 +0000";
+lastChange = "2024-07-22 02:02:26 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_TPUANp/Screenshot 2024-06-27 at 6.04.15 PM.png";
-locked = 1;
-pos = (-471,-174);
-scale = (30.4576,30.4576);
-};
 layerId = m01;
 shapes = (
 {
@@ -1904,7 +1850,7 @@ unicode = 110;
 },
 {
 glyphname = o;
-lastChange = "2024-07-20 21:45:50 +0000";
+lastChange = "2024-07-22 02:02:41 +0000";
 layers = (
 {
 background = {
@@ -1951,12 +1897,6 @@ nodes = (
 }
 );
 };
-backgroundImage = {
-imagePath = "../../../../var/folders/j2/c80jlpq56g38qtrpmn4sn6hw0000gn/T/TemporaryItems/NSIRD_screencaptureui_AkAub8/Screenshot 2024-06-26 at 11.36.11 AM.png";
-locked = 1;
-pos = (-855,948);
-scale = (29.782,29.782);
-};
 layerId = m01;
 shapes = (
 {
@@ -2001,15 +1941,9 @@ unicode = 111;
 },
 {
 glyphname = p;
-lastChange = "2024-07-20 21:59:06 +0000";
+lastChange = "2024-07-22 02:02:34 +0000";
 layers = (
 {
-backgroundImage = {
-imagePath = "../../Desktop/Screenshot 2024-07-04 at 8.23.05 AM.png";
-locked = 1;
-pos = (-300,-503);
-scale = (28.25,28.25);
-};
 layerId = m01;
 shapes = (
 {
