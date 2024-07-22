@@ -2,7 +2,7 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"HAMBURGEF
+"HhAMBURGEF
 ONTSIVOhamburgefontsivnope
 
 HH/Placeholder HH OO/Placeholder OO
@@ -10,7 +10,7 @@ nn/Placeholder nn oo/Placeholder oo
 HH/Placeholder/Placeholder HH OO/Placeholder/Placeholder OO
 nn/Placeholder/Placeholder nn oo/Placeholder/Placeholder oo
 ",
-hamnopanoaae,
+hambnopanoaae,
 RBRGRAH,
 " ",
 OBEFR,
@@ -1674,10 +1674,119 @@ unicode = 97;
 },
 {
 glyphname = b;
+lastChange = "2024-07-22 06:36:37 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(141,0,l),
+(205,41,l),
+(208,860,l),
+(165,860,l),
+(30,783,l),
+(30,757,l),
+(106,724,l),
+(106,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(487,-12,o),
+(600,97,o),
+(600,265,cs),
+(600,427,o),
+(517,514,o),
+(390,514,cs),
+(319,514,o),
+(223,450,o),
+(166,377,c),
+(166,57,l),
+(200,12,o),
+(259,-12,o),
+(343,-12,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(277,45,o),
+(211,89,o),
+(210,164,cs),
+(208,363,l),
+(243,402,o),
+(293,425,o),
+(347,425,cs),
+(443,425,o),
+(492,347,o),
+(492,240,cs),
+(492,133,o),
+(443,45,o),
+(347,45,cs)
+);
+}
+);
+width = 635;
+},
+{
+associatedMasterId = m01;
+layerId = "E8055CD4-2639-4D1E-9B2D-402D8BDDFFD7";
+name = "with spur";
+shapes = (
+{
+closed = 1;
+nodes = (
+(497,-12,o),
+(600,97,o),
+(600,265,cs),
+(600,427,o),
+(517,514,o),
+(390,514,cs),
+(319,514,o),
+(223,450,o),
+(166,377,c),
+(106,377,l),
+(106,13,l),
+(202,12,o),
+(259,-12,o),
+(363,-12,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(277,45,o),
+(208,89,o),
+(208,164,cs),
+(208,363,l),
+(243,402,o),
+(293,425,o),
+(347,425,cs),
+(443,425,o),
+(492,347,o),
+(492,240,cs),
+(492,112,o),
+(426,45,o),
+(347,45,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(208,331,l),
+(208,876,l),
+(165,876,l),
+(30,799,l),
+(30,773,l),
+(106,740,l),
+(106,331,l)
+);
+}
+);
+width = 635;
 }
 );
 unicode = 98;
@@ -1815,7 +1924,7 @@ unicode = 103;
 },
 {
 glyphname = h;
-lastChange = "2024-07-22 02:05:36 +0000";
+lastChange = "2024-07-22 06:34:30 +0000";
 layers = (
 {
 layerId = m01;
@@ -1857,11 +1966,11 @@ nodes = (
 (257,51,o),
 (226,77,o),
 (226,135,cs),
-(226,860,l),
-(183,860,l),
-(48,783,l),
-(48,757,l),
-(124,724,l),
+(226,876,l),
+(183,876,l),
+(48,799,l),
+(48,773,l),
+(124,740,l),
 (126,135,ls),
 (126,77,o),
 (96,51,o),
