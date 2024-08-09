@@ -24,40 +24,13 @@ Maple",
 bbddubppqq
 aglb/backslash o//c a//b h//o/backslash text{}
 /backslash abba// //oo// this//that",
-"AT&&TO//H/slash.caps H/backslash O/backslash.caps O
-I/slash.caps O",
+"AT&an#splatoon xt&TO//H/slash.caps H/backslash O/backslash.caps O
+#AO",
 "tAH.,!?:;Oa
 Tonight. Tonight?
 Tonight, Tonight!
 Tonight:
-Tonight;",
-a,
-H,
-A,
-B,
-D,
-E,
-F,
-G,
-C,
-I,
-J,
-K,
-L,
-M,
-N,
-O,
-P,
-Q,
-R,
-T,
-U,
-V,
-W,
-X,
-Y,
-Z,
-"/Q.short"
+Tonight;"
 );
 classes = (
 {
@@ -8262,10 +8235,49 @@ unicode = 42;
 },
 {
 glyphname = numbersign;
+lastChange = "2024-08-09 19:12:17 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,0,l),
+(220,0,l),
+(380,800,l),
+(305,800,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(355,0,l),
+(430,0,l),
+(590,800,l),
+(515,800,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(103,464,l),
+(691,464,l),
+(691,543,l),
+(103,543,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(50,234,l),
+(638,234,l),
+(638,313,l),
+(50,313,l)
+);
+}
+);
+width = 741;
 }
 );
 unicode = 35;
@@ -9576,7 +9588,7 @@ unicode = 64;
 },
 {
 glyphname = ampersand;
-lastChange = "2024-08-09 06:02:44 +0000";
+lastChange = "2024-08-09 18:54:35 +0000";
 layers = (
 {
 associatedMasterId = m01;
@@ -9857,16 +9869,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(770,571,ls),
-(786,598,o),
-(803,612,o),
-(839,618,c),
-(839,670,l),
-(653,670,l),
-(653,618,l),
-(690,613,o),
-(714,597,o),
-(700,573,cs),
+(760,571,ls),
+(776,598,o),
+(793,612,o),
+(829,618,c),
+(829,670,l),
+(643,670,l),
+(643,618,l),
+(680,613,o),
+(704,597,o),
+(690,573,cs),
 (515,262,l),
 (548,207,l)
 );
