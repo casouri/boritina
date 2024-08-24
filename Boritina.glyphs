@@ -21,9 +21,9 @@ nn/Placeholder/Placeholder nn oo/Placeholder/Placeholder oo
 ",
 "[{(abcggHH|gg|/backslash AABA//QQ)}]d(a)(b)(c)(g)(l)
 Chapter 8
-adn/two.osf yac++C++bx3+5−4+×7÷2+=+÷12<34>67a/less.osf/.notdef b3/one.osf/plus.osf xa/equal.osf/two.osf/minus.osf c/multiply.osf/three.osf/divide.osf/nine.osf .
+adn/two.osf yac++C++bx3+5−4+×7÷2+=+÷12<34>67a/less.osf/.notdef b3/one.osf/plus.osf xa/equal.osf/two.osf/minus.osf c/multiply.osf/three.osf/three.osf/divide.osf/one.osf/nine.osf/five.osf/five.osf/six.osf/two.osf .
 YEAR 1978/.notdef 202335 WAS GREAT
-year 1978/.notdef 1260543 was great",
+year wear version vola 1978/.notdef 1260543 was great",
 "tAH.,!??a@:;Oa“”‘’ '\"/backslash//|¦g[
 !¡¿x·;•*/.notdef x‚„«»x‹›S$
 Tonight. Tonight?
@@ -6862,7 +6862,7 @@ unicode = 240;
 {
 glyphname = e;
 kernLeft = o;
-lastChange = "2024-08-23 22:19:52 +0000";
+lastChange = "2024-08-24 23:26:10 +0000";
 layers = (
 {
 anchors = (
@@ -11453,10 +11453,58 @@ width = 537;
 },
 {
 glyphname = three.osf;
-lastChange = "2024-08-23 22:19:52 +0000";
+lastChange = "2024-08-24 23:25:37 +0000";
 layers = (
 {
+associatedMasterId = m01;
+layerId = "79C9B218-E053-43FE-A1A6-AC30205E0A49";
+name = "Aug 24, 24 at 16:25";
+shapes = (
+{
+closed = 1;
+nodes = (
+(269,-296,o),
+(522,-207,o),
+(522,33,cs),
+(522,138,o),
+(431,243,o),
+(273,238,c),
+(274,215,l),
+(399,269,o),
+(485,359,o),
+(485,438,cs),
+(485,524,o),
+(420,588,o),
+(301,588,cs),
+(185,588,o),
+(106,519,o),
+(81,437,c),
+(124,416,l),
+(169,479,o),
+(222,514,o),
+(278,514,cs),
+(338,514,o),
+(389,468,o),
+(389,399,cs),
+(389,330,o),
+(263,247,o),
+(164,221,c),
+(170,180,l),
+(339,181,o),
+(410,103,o),
+(410,7,cs),
+(410,-172,o),
+(208,-217,o),
+(87,-227,c),
+(89,-287,l)
+);
+}
+);
+width = 562;
+},
+{
 layerId = m01;
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -11538,10 +11586,47 @@ width = 603;
 },
 {
 glyphname = five.osf;
-lastChange = "2024-08-23 22:19:52 +0000";
+lastChange = "2024-08-24 23:25:35 +0000";
 layers = (
 {
+associatedMasterId = m01;
+layerId = "A977CFAB-0005-4F85-A737-5FEBACB12582";
+name = "Aug 24, 24 at 16:25";
+shapes = (
+{
+closed = 1;
+nodes = (
+(263,-301,o),
+(533,-218,o),
+(533,37,cs),
+(533,207,o),
+(385,284,o),
+(155,305,c),
+(183,473,l),
+(482,473,l),
+(526,629,l),
+(472,629,l),
+(457,588,o),
+(429,572,o),
+(374,572,cs),
+(129,572,l),
+(71,229,l),
+(95,208,l),
+(304,209,o),
+(415,148,o),
+(415,6,cs),
+(415,-179,o),
+(175,-232,o),
+(81,-242,c),
+(94,-311,l)
+);
+}
+);
+width = 600;
+},
+{
 layerId = m01;
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -16795,7 +16880,7 @@ u = -40;
 };
 "@MMK_L_v" = {
 "@MMK_R_bpunc" = -80;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -20;
 };
 B = {
 "@MMK_R_O" = 30;
