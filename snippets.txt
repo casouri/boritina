@@ -1,0 +1,21 @@
+áíȷ́éóúẃý ÁÉÍJ́ÓÚẂ
+àèìòùẁỳ ÀÈÌÒÙẀỲ
+âêîôûŵŷ ÂÊÎÔÛŴŶ
+äëïöüẅÿ ÄËÏÖÜẄŸ
+åÅ
+ãñõ ÃÑÕ
+çÇ
+øØ
+ðÐþÞßẞ
+æœÆŒ
+
+́áíȷ́éóúẃý /acutecomb.case ÁÉÍJ́ÓÚẂ
+̀àèìòùẁỳ /gravecomb.case ÀÈÌÒÙẀỲ
+̂âêîôûŵŷ /circumflexcomb.case ÂÊÎÔÛŴŶ
+̈äëïöüẅÿ /dieresiscomb.case ÄËÏÖÜẄŸ
+̊å/ringcomb.case Å
+̃ãñõ /tildecomb.case ÃÑÕ
+̧ç/cedillacomb.case Ç
+øØ
+ðÐþÞßẞ
+æœÆŒ

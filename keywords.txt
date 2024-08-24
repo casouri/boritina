@@ -12,6 +12,12 @@ Extended
 Restrained
 Stern
 Solemn
+Pleasent
+Strong
+Calm
+Graceful
+Stoic
+
 
 BORING
 
@@ -22,3 +28,8 @@ QUEUE
 JOJO
 HIS
 YAY
+
+
+付禹安 Fu Yu’an
+Boritina
+IMTD Workshop 2022
