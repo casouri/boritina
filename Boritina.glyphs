@@ -11878,7 +11878,7 @@ width = 0;
 glyphname = period;
 kernLeft = bpunc;
 kernRight = bpunc;
-lastChange = "2024-08-29 04:32:16 +0000";
+lastChange = "2024-08-29 04:52:49 +0000";
 layers = (
 {
 associatedMasterId = m01;
@@ -16974,6 +16974,7 @@ u = -40;
 "@MMK_R_V" = -120;
 "@MMK_R_parenright" = -100;
 "@MMK_R_v" = -80;
+braceright = -50;
 };
 "@MMK_L_cbar" = {
 "@MMK_R_A" = -60;
@@ -17064,6 +17065,9 @@ backslash = {
 "@MMK_R_V" = -80;
 "@MMK_R_v" = -30;
 backslash = -150;
+};
+braceleft = {
+"@MMK_R_bpunc" = -50;
 };
 c = {
 "@MMK_R_parenright" = -50;
