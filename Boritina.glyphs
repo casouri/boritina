@@ -20,9 +20,9 @@ HH/Placeholder/Placeholder HH OO/Placeholder/Placeholder OO
 nn/Placeholder/Placeholder nn oo/Placeholder/Placeholder oo
 ",
 "[{(abcggHH|gg|/backslash AABA//QQ{[()}]d(a)(b)(c)(g)
-(H)(l)[H][g] [a] look  lock erk
+(H)(l)[H][g] [a] look  lock erk Over
 Chapter 86 ao ad ac acme adidas
-adn/two.osf yac++C++bx3+5−4+×7÷2+=+÷12<34>67a/less.osf/.notdef b3/one.osf/plus.osf xa/equal.osf/two.osf/minus.osf c/multiply.osf/three.osf/three.osf/divide.osf/one.osf/nine.osf/five.osf/five.osf/six.osf/eight.osf/two.osf .
+adn/two.osf yac++C++bx3+5−4+×7÷2+=+÷12<34>67a/less.osf/.notdef b3/one.osf/plus.osf xa/equal.osf/two.osf/minus.osf c/multiply.osf/three.osf/three.osf/divide.osf/one.osf/nine.osf/five.osf/four.osf/five.osf/six.osf/eight.osf/two.osf/seven.osf .
 YEAR 1978/.notdef 202335 WAS GREAT
 year wear version vola 1978/.notdef 1260543 was great",
 "tAH.,!??a@:;Oa“”‘’ '\"/backslash//|¦g[
@@ -10586,7 +10586,7 @@ unicode = 49;
 },
 {
 glyphname = two;
-lastChange = "2024-08-23 22:19:52 +0000";
+lastChange = "2024-09-22 06:47:25 +0000";
 layers = (
 {
 backgroundImage = {
@@ -10606,7 +10606,7 @@ nodes = (
 (519,146,o),
 (481,98,o),
 (408,98,cs),
-(168,98,l),
+(178,98,l),
 (367,318,o),
 (566,433,o),
 (563,609,cs),
@@ -10624,7 +10624,7 @@ nodes = (
 (441,662,o),
 (441,578,cs),
 (441,455,o),
-(306,361,o),
+(306,351,o),
 (50,60,c),
 (50,0,l)
 );
@@ -10822,7 +10822,7 @@ unicode = 51;
 },
 {
 glyphname = four;
-lastChange = "2024-09-21 07:15:57 +0000";
+lastChange = "2024-09-22 06:50:15 +0000";
 layers = (
 {
 associatedMasterId = m01;
@@ -10936,7 +10936,7 @@ shapes = (
 closed = 1;
 nodes = (
 (501,0,l),
-(501,820,l),
+(501,810,l),
 (405,810,l),
 (40,305,l),
 (40,239,l),
@@ -11211,7 +11211,7 @@ unicode = 54;
 },
 {
 glyphname = seven;
-lastChange = "2024-08-23 22:35:42 +0000";
+lastChange = "2024-09-22 06:49:16 +0000";
 layers = (
 {
 backgroundImage = {
@@ -11225,8 +11225,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(259,-19,l),
-(359,235,o),
+(259,-9,l),
+(349,245,o),
 (459,490,o),
 (579,724,c),
 (580,800,l),
@@ -11237,8 +11237,8 @@ nodes = (
 (144,698,o),
 (201,698,cs),
 (495,698,l),
-(154,22,l),
-(154,-19,l)
+(144,22,l),
+(144,-9,l)
 );
 }
 );
@@ -11470,7 +11470,7 @@ width = 442;
 },
 {
 glyphname = two.osf;
-lastChange = "2024-08-23 22:19:52 +0000";
+lastChange = "2024-09-22 06:47:02 +0000";
 layers = (
 {
 layerId = m01;
@@ -11780,7 +11780,7 @@ width = 588;
 },
 {
 glyphname = seven.osf;
-lastChange = "2024-08-23 22:19:52 +0000";
+lastChange = "2024-09-22 06:49:07 +0000";
 layers = (
 {
 layerId = m01;
@@ -11788,8 +11788,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(250,-203,l),
-(346,41,o),
+(250,-193,l),
+(336,51,o),
 (442,276,o),
 (557,501,c),
 (558,574,l),
@@ -11800,8 +11800,8 @@ nodes = (
 (149,475,o),
 (204,475,cs),
 (476,475,l),
-(150,-164,l),
-(150,-203,l)
+(140,-167,l),
+(140,-193,l)
 );
 }
 );
